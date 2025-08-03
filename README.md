@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Illia</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+developer+focused+on+data+analysis;Learning+AI+%7C+Numpy+%7C+Pandas+%7C+Django+%7C+Blender" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+developer+focused+on+data+analysis;Learning+GraphQL+%7C+NumPy+%7C+Pandas+%7C+Django" alt="Typing SVG" />
 </p>
 
 ---
@@ -53,14 +53,14 @@
 
 ### 📊 GitHub Stats
 
-[![Illia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladurka&show_icons=true&theme=radical)](https://github.com/Vladurka)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladurka&layout=compact&theme=radical)](https://github.com/Vladurka)
+[![Illia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladurka&show_icons=true&theme=radical)](https://github.com/KOCTPATIK)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladurka&layout=compact&theme=radical)](https://github.com/KOCTPATIK)
 
 ---
 
 ### 📈 Contribution Activity
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vladurka&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/Vladurka)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vladurka&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/KOCTPATIK)
 
 ---
 
