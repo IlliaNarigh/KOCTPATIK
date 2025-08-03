@@ -52,8 +52,8 @@
 
 ### 📊 GitHub Stats
 
-[![Illia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladurka&show_icons=true&theme=radical)](https://github.com/KOCTPATIK)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladurka&layout=compact&theme=radical)](https://github.com/KOCTPATIK)
+[![Illia's GitHub stats](https://github-readme-stats.vercel.app/api?username=KOCTPATIK&show_icons=true&theme=radical)](https://github.com/KOCTPATIK)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KOCTPATIK&layout=compact&theme=radical)](https://github.com/KOCTPATIK)
 
 ---
 
