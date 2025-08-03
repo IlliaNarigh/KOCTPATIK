@@ -1,100 +1,88 @@
-<h1 align="center">Hi, I'm Illia 👋</h1>
+<h1 align="center">Hi there, I'm Illia 👋</h1>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/MilplcpOCEMTGBtBW/giphy.gif" width="50px" />
-</p>
-
-<h3 align="center">A passionate frontend and Python developer focused on AI and automation</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=illia&label=Profile%20views&color=0e75b6&style=flat" alt="illia" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Python+developer+focused+on+data+analysis;Learning+AI+%7C+Numpy+%7C+Pandas+%7C+Django+%7C+Blender" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me:
-I'm a junior Python developer with a focus on **data science**, **AI**, and **analytics**.  
-I love building projects that help computers **understand and respond to humans**.  
-Started learning programming with **Python**, explored **data science**, and now focus on building smart systems and tools with **AI and automation**.  
-Currently learning more advanced topics and deepening my skills every day!
+
+- 🧠 Passionate about **Python**, **Data Science**, and **Analytics**
+- 🔭 Learning AI, OpenAI tools, and backend frameworks
+- 🎨 Sometimes I model in **Blender**
+- 💬 I enjoy working on self-learning Python assistants
 
 ---
 
-### 🎯 Goals:
-- ✅ Master Python for data-driven projects  
-- ✅ Build and train AI assistants  
-- ✅ Learn cloud deployment  
-- ✅ Find work in IT as a Python/Data Science specialist
+### 💻 Languages and Tools:
+
+<div align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
+  </a>
+  <a href="https://openai.com" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" alt="OpenAI" width="40" height="40"/>
+  </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+</div>
 
 ---
 
 ### 🌐 Socials:
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Illia)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narighillya@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/illia)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8337)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username_here)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email_here@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_instagram_username)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your_discord_id)
 
 ---
 
-### 💻 Tech Stack:
+### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="48" title="Python" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="48" title="NumPy" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="48" title="Pandas" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="48" title="Django" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="48" title="Flask" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="48" title="Jupyter" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48" title="Git" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" title="HTML5" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" title="CSS3" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Illia&show_icons=true&theme=radical&border_radius=15" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Illia&theme=radical&border_radius=15" width="48%" />
 </div>
-
----
-
-### 🛠 Tools:
-
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="48" title="Photoshop" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="48" title="Canva" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" title="Figma" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" width="48" title="DaVinci Resolve" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="40" title="Raspberry Pi" />
-</div>
-
----
-
-### 📚 Courses Completed:
-
-| Course | Platform | Date |
-|--------|----------|------|
-| Intro to Programming | Netology | 02/2022 - 03/2022 |
-| Basics of C | Stepik | 02/2022 - 03/2022 |
-| Web Layout Basics | Netology | 03/2022 |
-| First Steps in JavaScript | Netology | 02/2022 - 03/2022 |
-| HTML & CSS for Beginners | Stepik | 03/2022 |
-| JavaScript for Beginners | Stepik | 01/2023 |
-| Web Technologies – Beginner | Stepik | 01/2023 |
-| Web Development Faculty | Yandex Practicum | 05/2022 – Present |
 
 ---
 
 ### 🧠 Codewars:
 
-[![Codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)](https://www.codewars.com/users/FilimonovAlexey)
+[![Codewars](https://www.codewars.com/users/your_username_here/badges/large)](https://www.codewars.com/users/your_username_here)
 
 ---
 
-### 📈 GitHub Stats:
+### 🔥 Fun Projects
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Illia&theme=dark&background=000000" alt="Streak Stats" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Illia&layout=compact&theme=vision-friendly-dark" height="195px" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Illia&show_icons=true&locale=en" alt="GitHub Stats" />
-</div>
+- 🤖 Self-learning chatbot in Python
+- 🔍 Assistant with OpenAI & voice recognition
+- 📁 File automation tools
 
 ---
 
-### 🏁 Thanks for visiting!
+### ✨ Fun GIF:
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
