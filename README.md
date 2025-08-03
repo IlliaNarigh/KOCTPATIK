@@ -1,20 +1,100 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=illia&label=Profile%20views&color=0e75b6&style=flat" alt="illia" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=illia" alt="illia" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/illia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="illia" height="30" width="40" /></a>
-<a href="https://discord.gg/8337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8337" height="30" width="40" /></a>
+<h1 align="center">Hi, I'm Illia 👋</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/MilplcpOCEMTGBtBW/giphy.gif" width="50px" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="center">A passionate frontend and Python developer focused on AI and automation</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=illia&show_icons=true&locale=en&layout=compact" alt="illia" /></p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=illia&label=Profile%20views&color=0e75b6&style=flat" alt="illia" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=illia&show_icons=true&locale=en" alt="illia" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=illia&" alt="illia" /></p>
+### 👨‍💻 About Me:
+I'm a junior Python developer with a focus on **data science**, **AI**, and **analytics**.  
+I love building projects that help computers **understand and respond to humans**.  
+Started learning programming with **Python**, explored **data science**, and now focus on building smart systems and tools with **AI and automation**.  
+Currently learning more advanced topics and deepening my skills every day!
+
+---
+
+### 🎯 Goals:
+- ✅ Master Python for data-driven projects  
+- ✅ Build and train AI assistants  
+- ✅ Learn cloud deployment  
+- ✅ Find work in IT as a Python/Data Science specialist
+
+---
+
+### 🌐 Socials:
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Illia)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narighillya@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/illia)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8337)
+
+---
+
+### 💻 Tech Stack:
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="48" title="Python" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="48" title="NumPy" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="48" title="Pandas" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="48" title="Django" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="48" title="Flask" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="48" title="Jupyter" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48" title="Git" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" title="HTML5" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" title="CSS3" />
+</div>
+
+---
+
+### 🛠 Tools:
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="48" title="Photoshop" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="48" title="Canva" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" title="Figma" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" width="48" title="DaVinci Resolve" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="40" title="Raspberry Pi" />
+</div>
+
+---
+
+### 📚 Courses Completed:
+
+| Course | Platform | Date |
+|--------|----------|------|
+| Intro to Programming | Netology | 02/2022 - 03/2022 |
+| Basics of C | Stepik | 02/2022 - 03/2022 |
+| Web Layout Basics | Netology | 03/2022 |
+| First Steps in JavaScript | Netology | 02/2022 - 03/2022 |
+| HTML & CSS for Beginners | Stepik | 03/2022 |
+| JavaScript for Beginners | Stepik | 01/2023 |
+| Web Technologies – Beginner | Stepik | 01/2023 |
+| Web Development Faculty | Yandex Practicum | 05/2022 – Present |
+
+---
+
+### 🧠 Codewars:
+
+[![Codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)](https://www.codewars.com/users/FilimonovAlexey)
+
+---
+
+### 📈 GitHub Stats:
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Illia&theme=dark&background=000000" alt="Streak Stats" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Illia&layout=compact&theme=vision-friendly-dark" height="195px" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Illia&show_icons=true&locale=en" alt="GitHub Stats" />
+</div>
+
+---
+
+### 🏁 Thanks for visiting!
+
